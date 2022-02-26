@@ -1,18 +1,19 @@
 h1{
     font-family: Arial;
-    padding-left:10%; 
+    padding-left:25%; 
+    color:#01F0B6;
 }
 h3{
     color:rgb(255,255, 255);
     font-family: sans-serif;
-    /* display:inline-block; */
+    padding-top:2%; 
 }
 body{
-    background-color: #C4D8E3;
+    background-color: #0180B6;
 }
 
 #picture{
-    padding-right: 30%; 
+    padding-right: 40%; 
     float:right;
    
 }
@@ -23,12 +24,12 @@ img{
 }
 a{
     font-family: sans-serif;
-    color:#AB0101;
-    padding-left:10%; 
+    color:#FFFFFF;
+    padding-left:25%; 
 }
 
 .words {
-    padding-left:10%; 
+    padding-left:25%; 
     
   }
 
