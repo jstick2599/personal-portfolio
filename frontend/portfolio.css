@@ -1,10 +1,35 @@
 h1{
-    color:black; 
+    font-family: Arial;
+    padding-left:10%; 
 }
 h3{
-    padding-left: 30%;
+    color:rgb(255,255, 255);
     font-family: sans-serif;
+    /* display:inline-block; */
 }
 body{
     background-color: #C4D8E3;
 }
+
+#picture{
+    padding-right: 30%; 
+    float:right;
+   
+}
+img{
+    width:200%;
+    height:100%;
+ 
+}
+a{
+    font-family: sans-serif;
+    color:#AB0101;
+    padding-left:10%; 
+}
+
+.words {
+    padding-left:10%; 
+    
+  }
+
+
