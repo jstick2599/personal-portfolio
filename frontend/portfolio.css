@@ -9,13 +9,29 @@
     width: 60vw;
     height: 50vh;
     display: flex;
+    flex-direction: column;
+   
+}
+
+.projects {
+    display: inline-block;
+    display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content:space-between;
     gap: 32px;
 }
 
-.projectTitle {
+/* .projectTitle {
     display: inline-block;
+   
+} */
+.pictures{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    gap: 32px;
+    width:70%; 
+
 }
 
 h1{
