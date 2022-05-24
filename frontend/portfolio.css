@@ -1,10 +1,79 @@
-.topContainer {
+#selfPortrait{
+height:45%; 
+width:23%; 
+border-radius:120px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+#name{
+ 
+    margin-left:2%;
+    margin-top:2%;
+}
+body{
+    background-color: black;
+}
+.topContainer{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bio{
+    width: 44%;
+    margin-left: 28%;
+    margin-top:2%;
+    line-height: 1.5em;
+    font-size: 24px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.skills{
+    color:white; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top:3%;
+}
+.skillImages{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top:4%;
+}
+#react{
+    width:15%;
+    height:15%;
+    padding-top:3%;
+}
+#java{
+    width:15%;
+ 
+}
+#frontendLanguages{
+    width:18%;
+    height:18%;
+    padding-top: 1%;
+}
+#figma{
+    width:12%;
+    padding-top: 2%;
+}
+.projectsText{
+    color:white; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top:6%; 
+
+}
+/* .topContainer {
     width: 60vw;
     height: 47vh;
     display: flex;
     flex-direction: row;
     padding-top:3vh; 
 }
+
 .bottomContainer{
     width: 60vw;
     height: max-content;
@@ -100,6 +169,6 @@ a{
     display: flex;
     flex-direction: column;
     gap: 16px;    
-}
+} */
 
 
