@@ -97,6 +97,7 @@ body{
 }
 .educationDescription{
     margin-top:13%; 
+    font-size: 24px;
 }
 #educationPhoto{
     width:55%;
@@ -111,9 +112,11 @@ body{
 }
 .keysightDescription{
     margin-top:13%; 
+    font-size: 24px;
 }
 .encapsulateDescription{
     margin-top:13%; 
+    font-size: 24px;
 }
 #encapsulatePhoto{
     width:55%;
