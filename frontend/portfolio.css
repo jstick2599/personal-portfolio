@@ -8,7 +8,6 @@ margin-right: auto;
 
 }
 #name{
- 
     margin-left:2%;
     margin-top:2%;
 }
@@ -16,6 +15,10 @@ body{
     background-color: black;
 }
 .topContainer{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.projectDivs{
     color:white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -66,6 +69,59 @@ body{
     margin-top:6%; 
 
 }
+.projectDivs{
+    margin-top:5%;
+}
+.education{
+    display:flex;
+    flex-direction: row;
+}
+.keysight{
+    display:flex;
+    flex-direction: row; 
+    margin-top:5%;
+}
+.encapsulate{
+    display:flex;
+    flex-direction: row; 
+    margin-top:5%;
+}
+.educationDiv{
+    margin-left:2%;
+}
+.keysightDiv{
+    margin-left:2%;
+}
+.encapsulateDiv{
+    margin-left:2%;
+}
+.educationDescription{
+    margin-top:13%; 
+}
+#educationPhoto{
+    width:55%;
+    margin-right:10%;
+}
+#keysightText{
+    width:35%;
+}
+#keysightPhoto{
+    width:55%;
+    margin-right:10%;
+}
+.keysightDescription{
+    margin-top:13%; 
+}
+.encapsulateDescription{
+    margin-top:13%; 
+}
+#encapsulatePhoto{
+    width:55%;
+    margin-right:10%;
+}
+/* .linkedIn{
+
+} */
 /* .topContainer {
     width: 60vw;
     height: 47vh;
