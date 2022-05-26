@@ -62,11 +62,17 @@ body{
     width:12%;
     padding-top: 2%;
 }
+#figmaText{
+    text-align: right;
+    margin-right:23.5%;
+    color:white; 
+    font-family: Arial, Helvetica, sans-serif;
+}
 .projectsText{
     color:white; 
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin-top:6%; 
+    margin-top:4%; 
 
 }
 .projectDivs{
